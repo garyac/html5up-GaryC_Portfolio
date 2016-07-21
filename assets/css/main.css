@@ -1624,10 +1624,10 @@
 
 	body {
 		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #93934d 15%, #66a329 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #93934d 15%, #66a329 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #93934d 15%, #66a329 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #93934d 15%, #66a329 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #93934d 15%, #69a353 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #93934d 15%, #69a353 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #93934d 15%, #69a353 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #93934d 15%, #69a353 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2349,7 +2349,7 @@
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: 	#c79cc8;
 		}
 
 		.icon.style3 {
