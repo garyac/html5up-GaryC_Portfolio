@@ -4,8 +4,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="85px" height="85px" viewBox="0 0 85 85" enable-background="new 0 0 85 85" xml:space="preserve">
 <g>
-	<path fill="#FFFFFF" d="M42.5,0C65.972,0,85,19.028,85,42.5S65.972,85,42.5,85S0,65.972,0,42.5S19.028,0,42.5,0z"/>
+	<path fill="#FFFFFF" d="M42.5,0C65.973,0,85,19.028,85,42.5C85,65.973,65.973,85,42.5,85C19.028,85,0,65.973,0,42.5
+		C0,19.028,19.028,0,42.5,0z"/>
 </g>
-<image overflow="visible" width="9000" height="6750" xlink:href="../../../../../Dropbox/SmallBizzapps/Working Files/05|03|2016-TitanUI/Jack Allen/1.SQ.png"  transform="matrix(0.0053 0 0 0.0053 18.4482 25.5859)">
-</image>
+<g>
+	
+		<image overflow="visible" width="634" height="640" id="ZuXDWK" xlink:href="D92669EDC40DC03A.png"  transform="matrix(0.0915 0 0 0.0915 13.5645 13.9556)">
+	</image>
+</g>
 </svg>

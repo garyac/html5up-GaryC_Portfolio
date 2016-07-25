@@ -1685,14 +1685,13 @@
 		-ms-transition: color 0.2s ease, border-bottom 0.2s ease;
 		transition: color 0.2s ease, border-bottom 0.2s ease;
 		text-decoration: none;
-		border-bottom: dotted 1px;
-		color: darkolivegreen;
+		border-bottom: dotted 0px;
+		color: #436b37;
 	}
 
 		a:hover {
 			border-bottom-color: darkolivegreen;
 		}
-
 	strong, b {
 		font-weight: 400;
 	}
@@ -1877,7 +1876,7 @@
 		}
 
 	.box {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: rgba(255, 255, 255, 0.50);
 	}
 
 /* Button */
@@ -3209,15 +3208,13 @@
 		@media screen and (max-width: 360px) {
 
 			#header {
-				padding: 2.5em 1em 0.1em 1em ;
+				padding: 2.5em 1em 0.1em 1em;
 			}
 
-				#header.alt {
-					padding: 3.5em 1em 0.5em 1em ;
-				}
-
+			#header.alt {
+				padding: 3.5em 1em 0.5em 1em;
+			}
 		}
-
 		body.is-loading #header.alt > * {
 			opacity: 0;
 		}
@@ -3320,6 +3317,7 @@
 					#nav ul li a.active {
 						background-color: #ffffff;
 						box-shadow: none;
+						border: 1px;
 					}
 
 		#nav.alt {
