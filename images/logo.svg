@@ -7,9 +7,15 @@
 	<path fill="#FFFFFF" d="M42.5,0C65.973,0,85,19.028,85,42.5C85,65.973,65.973,85,42.5,85C19.028,85,0,65.973,0,42.5
 		C0,19.028,19.028,0,42.5,0z"/>
 </g>
-<g>
+<g opacity="0.4">
 	
-		<image overflow="visible" width="634" height="640" id="ZuXDWK" xlink:href="D92669EDC40DC03A.png"  transform="matrix(0.0915 0 0 0.0915 13.5645 13.9556)">
+		<image overflow="visible" enable-background="new    " width="645" height="656" id="ZuXDWK" xlink:href="D92669EDC40DC03A.png"  transform="matrix(0.0896 0 0 0.0896 15.6758 13.8467)">
 	</image>
 </g>
+<image display="none" overflow="visible" width="645" height="656" xlink:href="D92669EDC40DC03A.png"  transform="matrix(0.0915 0 0 0.0915 15.0049 13.502)">
+</image>
+<circle opacity="0.7" fill="#FDCC99" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="51.126" cy="36.542" r="18.875"/>
+<rect x="18.667" y="28.082" opacity="0.7" fill="#F5A4C7" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="24.917" height="24.75"/>
+<polygon opacity="0.7" fill="#D0DDA1" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="39.5,36.583 20.75,69.166 
+	57.834,68.666 "/>
 </svg>
